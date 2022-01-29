@@ -34,8 +34,8 @@ Write program to identify valid identifiers using LEX.
  
 ## 9.	Arithmetic Expressions using YACC
 Write program to design parser for arithmetic expressions using YACC
-a.	Program to recognize a valid arithmetic expression that uses operator +, – ,* and /.
-b.	Write a program to implement arithmetic calculator.
+### a.	Program to recognize a valid arithmetic expression that uses operator +, – ,* and /.
+### b.	Write a program to implement arithmetic calculator.
 
 
 ## 10. 	Intermediate Code Generator
